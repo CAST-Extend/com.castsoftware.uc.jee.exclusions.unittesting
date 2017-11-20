@@ -1,6 +1,6 @@
 # com.castsoftware.uc.jee.exclusions.unittesting
 
-# SAP - Exclusions of JEE Unit Testing code 
+# JEE - Exclusions of JEE Unit Testing code 
 
 # Introduction
 The goal of this extension is to exclude the JEE Unit Testing code from the CAST dashboards 
